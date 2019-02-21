@@ -7,11 +7,10 @@ package clases;
 
 /**
  *  Ciclo de grado superior
- * @author Miguel Páramos
+ * @author Malkien
  */
-public class Ciclo {
-        private Asignatura[] asignaturasPrimero; //Las asignaturas de primer curso
-        private Asignatura[] asignaturasSegundo; //Las asignaturas de segundo curso
-        private String nombre; //Nombre del ciclo 
+public class Ciclo extends Elemento{
+    private Asignatura[] asignaturasPrimero; //Las asignaturas de primer curso
+    private Asignatura[] asignaturasSegundo; //Las asignaturas de segundo curso
         
 }

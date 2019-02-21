@@ -7,10 +7,10 @@ package clases;
 
 /**
  *  Modela un aula del centro educativo
- * @author Miguel Páramos
+ * @author Malkien
  */
 public class Aula {
-       private Ordenador[] equipos; //Todos los ordenadores del aula
-       private short nPuestos; //El número de puestos para trabajar que hay, con ordenador o sin ellos
-       private byte numeroAula; //El número identificador del aula
+    private Ordenador[] equipos; //Todos los ordenadores del aula
+    private short nPuestos; //El número de puestos para trabajar que hay, con ordenador o sin ellos
+    private byte numeroAula; //El número identificador del aula
 }
