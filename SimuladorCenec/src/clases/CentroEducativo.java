@@ -17,8 +17,8 @@ public class CentroEducativo {
         private Aula[] aulas; //Aulas del centro
         private Ciclo[] ciclos; //Ciclos que se imparten (DAM / DAW)
         private Profesor[] profesores; //Los profesores en plantilla
-        private Profesor[] administracion; //Los trabajadores de administración
-        private Profesor director; //El director del centro
-        private Profesor[] personalLimpieza; //Las personas que limpian
-        private Profesor tecnico; //El que arregla ordenadores
+        private Administrativo[] administracion; //Los trabajadores de administración
+        private Director director; //El director del centro
+        private Limpiador[] personalLimpieza; //Las personas que limpian
+        private Tecnico tecnico; //El que arregla ordenadores
 }
