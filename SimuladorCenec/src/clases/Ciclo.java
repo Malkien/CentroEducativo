@@ -10,8 +10,8 @@ package clases;
  * @author Miguel Páramos
  */
 public class Ciclo {
-        Asignatura[] asignaturasPrimero; //Las asignaturas de primer curso
-        Asignatura[] asignaturasSegundo; //Las asignaturas de segundo curso
-        String nombre; //Nombre del ciclo 
+        private Asignatura[] asignaturasPrimero; //Las asignaturas de primer curso
+        private Asignatura[] asignaturasSegundo; //Las asignaturas de segundo curso
+        private String nombre; //Nombre del ciclo 
         
 }
